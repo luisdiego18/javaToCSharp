@@ -1,0 +1,15 @@
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/bin/Debug/net6.0/javaToCSharp
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/bin/Debug/net6.0/javaToCSharp.deps.json
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/bin/Debug/net6.0/javaToCSharp.runtimeconfig.json
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/bin/Debug/net6.0/javaToCSharp.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/bin/Debug/net6.0/javaToCSharp.pdb
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.csproj.AssemblyReference.cache
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.AssemblyInfoInputs.cache
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.AssemblyInfo.cs
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.csproj.CoreCompileInputs.cache
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/refint/javaToCSharp.dll
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.pdb
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/javaToCSharp.genruntimeconfig.cache
+/Users/luisdiego/Documents/WCTC/2ndYear/MobileApplicationDev/javaToCSharp/obj/Debug/net6.0/ref/javaToCSharp.dll
